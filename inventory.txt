@@ -1,0 +1,13 @@
+LS8-cheatsheet.md 
+- Not sure, it looks like commands follow by bits
+
+LS8-spec.md
+- Explaination of what commands do.  
+
+ls8/cpu.py
+- Main cpu class
+- Implement cpu functionality
+
+ls8/ls8.py
+- Function that runs cpu.py
+- Use for testing day 1
