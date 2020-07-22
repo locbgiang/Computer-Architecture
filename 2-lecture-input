@@ -1,0 +1,11 @@
+#hello
+1       # print loc
+
+1       # print loc
+1       # print loc
+3      # save reg r2, 64
+2      # r2
+64     #  64
+4      # print reg r2
+2      # r2
+2      # r2
